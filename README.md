@@ -11,8 +11,8 @@ My very own customized TailwindCSS Design Kit. Free for all users.
 ## Components List
 
 - [X] Login
-- [ ] App Bar
-- [ ] Navigation
+- [ ] Navigation Bar
+- [X] Background Fix Center Scrolling
 
 - [ ] Accordion
 - [ ] Alerts
@@ -22,7 +22,12 @@ My very own customized TailwindCSS Design Kit. Free for all users.
 - [ ] Breadcrumbs
 - [ ] Button Groups
 - [ ] Buttons
-- [X] Background Fix Center Scrolling
+- [ ] Card
+- [ ] Carousel
+- [ ] Collapse
+- [ ] Loading
+- [ ] Progress
+- [ ] Dropdown
 
 
 ## Screenshots
