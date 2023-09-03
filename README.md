@@ -8,7 +8,7 @@ My very own customized TailwindCSS Design Kit. Free for all users.
 
 `git clone https://github.com/sorianojerome/JST-Design-Kit.git`
 
-## Components
+## Components List
 
 - [ ] Login
 - [ ] App Bar
