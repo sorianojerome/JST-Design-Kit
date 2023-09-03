@@ -22,3 +22,17 @@ My very own customized TailwindCSS Design Kit. Free for all users.
 - [ ] Breadcrumbs
 - [ ] Button Groups
 - [ ] Buttons
+- [X] Background Fix Center Scrolling
+
+
+## Screenshots
+
+### Background Fix Center Scrolling
+
+<p align="center">
+  <img src="screenshots/background-fixed-desktop.png" alt="Desktop View">
+</p>
+
+<p align="center">
+  <img src="screenshots/background-fixed-mobile.png" alt="Mobile View">
+</p>
