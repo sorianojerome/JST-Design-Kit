@@ -10,7 +10,7 @@ My very own customized TailwindCSS Design Kit. Free for all users.
 
 ## Components List
 
-- [ ] Login
+- [X] Login
 - [ ] App Bar
 - [ ] Navigation
 
